@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on Front End and BackEnd...
 - 🌱 I’m currently learning PHP...
-- 🤔 I’m looking for help with PHP...
-- 💬 Ask me about NodeJS, Front End (HTML, CSS, JS) And Unity...
+- 💬 Ask me about PHP, Front End (HTML, CSS, JS)...
 - ⚡ Fun fact: Like Coding...
 
 
@@ -16,10 +15,8 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Dino-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Dino-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dino-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Dino-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dino-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dino-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
