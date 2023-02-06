@@ -5,7 +5,7 @@
 - 💬 Ask me about PHP...
 - ⚡ Fun fact: Love F1 and Play With G29...
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheDevick&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
  <div style="widht: 99%">
   <a href="https://github.com/TheDevick">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheDevick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
